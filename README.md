@@ -36,4 +36,4 @@ copyrightmark.js is available under the [MIT license].
 
 https://www.fuload.cn/copyrightmark
 
-中文有更多详细的手册。
+中文有更详细的手册及示例。
